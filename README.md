@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Luca, and I'm currently a MSc Student in Artificial Intelligence at the University of Amsterdam. My research interests revolve around graph algorithms and representational learning 🌐, but I am also interested in reinforcement learning 🕹️, generative modelling 🪸 and AI4Sicence 🧬.
+I'm Luca, and I'm currently a MSc Student in Artificial Intelligence at the University of Amsterdam. My research interests revolve around graph algorithms and representational learning 🌐, but I am also interested in recommender systems 🎯, reinforcement learning 🕹️, generative modelling 🪸 and AI4Sicence 🧬.
 
 
 
